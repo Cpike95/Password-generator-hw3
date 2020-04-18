@@ -1,6 +1,7 @@
 # Password-generator-hw3
 
-I have created a password generator that has a user select there password criteria. 
+I have created a password generator that has a user select their password criteria. 
+The user will select the red Generate password button to begin the process.
 
 The user will type a number in the first prompt box to select the length of their password, and they must input a number ≥8 and ≤128. 
 
